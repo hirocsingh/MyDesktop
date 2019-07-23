@@ -221,3 +221,16 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 ### Accessories
 - PCI-E Power cable x1 (Two 6pin to 8 pin)
 
+
+## Keyboard & Mouse - Razer Cynosa Chroma & Razer OUROBOROS
+
+- Keyboard - Cynosa Chroma
+- Mice - OUROBOROS
+
+## Monitors - 3x Dell w/ 3 Monitor Mount (Only two Original stands)
+
+- Montior 1 - Dell 23' P2317H - HBMI and VGA
+- Montior 2 - Dell 23' P2317H - HBMI and VGA
+- Montior 3 - Dell 23' P2317H - HBMI and VGA
+
+
