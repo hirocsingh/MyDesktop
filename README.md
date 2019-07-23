@@ -180,3 +180,44 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 12 inch x 9.6 inch ( 30.5 cm x 24.4 cm )
 
 
+## GPU - Radeon™ RX VEGA 56 GAMING OC 8G
+
+### Graphics Processing
+- Radeon™ RX VEGA 56
+### Core Clock
+- Boost: 1501 MHz / Base: 1170 MHz
+(Reference Card Boost: 1471 MHz / Base: 1156 MHz)
+### Stream Processors
+- 3584
+### Memory Clock
+- 800MHz(1.6Gbps)
+### Memory Size
+- 8 GB
+### Memory Type
+- HBM2
+### Memory Bus
+- 2048 bit
+### Card Bus
+- PCI-E 3.0 x 16
+### Digital max resolution
+- 7680x4320
+### Multi-view
+- 6
+### Card size
+- H=53 L=273.8 W=131.6 mm
+### PCB Form
+- ATX
+### DirectX
+- 12
+### OpenGL
+- 4.5
+### Recommended PSU
+- 650W
+### Power Connectors
+- 8 pin*2
+### Output
+- HDMI-2.0b*3 (Max Resolution: 4096x2160 @60 Hz)
+- Display Port-1.4 *3 (Max Resolution: 7680x4320 @60 Hz)
+### Accessories
+- PCI-E Power cable x1 (Two 6pin to 8 pin)
+
