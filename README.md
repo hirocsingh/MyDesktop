@@ -3,22 +3,22 @@ Specification of My Workstation
 
 ## Processor
 
-AMD Ryzen 7 2700X
- No. of CPU - 8
- No. of Threads - 16
- Base Clock - 3.7GHz
- Max Boost Clock - 4.3GHz
- Total L1 Cache - 768KB
- Total L2 Cache - 4MB
- Total L3 Cache - 16MB
- Unlocked - Yes
- CMOS - 12nm FinFET
- Package - AM4
- PCI Express® Version - PCIe 3.0 x16
- Thermal Solution - Wraith Prism with RGB LED
- Default TDP / TDP - 105W
- Max Temps - 85°C
- OS Support
-    - Windows 10 - 64-Bit Edition
-    - RHEL x86 64-Bit
-    - Ubuntu x86 64-Bit
+AMD Ryzen 7 2700X<br>
+ No. of CPU - 8<br>
+ No. of Threads - 16<br>
+ Base Clock - 3.7GHz<br>
+ Max Boost Clock - 4.3GHz<br>
+ Total L1 Cache - 768KB<br>
+ Total L2 Cache - 4MB<br>
+ Total L3 Cache - 16MB<br>
+ Unlocked - Yes<br>
+ CMOS - 12nm FinFET<br>
+ Package - AM4<br>
+ PCI Express® Version - PCIe 3.0 x16<br>
+ Thermal Solution - Wraith Prism with RGB LED<br>
+ Default TDP / TDP - 105W<br>
+ Max Temps - 85°C<br>
+ OS Support<br>
+    - Windows 10 - 64-Bit Edition<br>
+    - RHEL x86 64-Bit<br>
+    - Ubuntu x86 64-Bit<br>
