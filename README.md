@@ -332,6 +332,53 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 - OTP (Over Temp)
 - OPP (Over Power)
 
+## PCI Adapter - AC1300 Wireless Dual Band PCI Express Adapter (For Wireless)
+<img src="router.jpg" alt="drawing" width="200"/>
+
+## Hardware Specs.
+### Interface	
+- PCI Express
+### Dimensions ( W x D x H )	
+- 4.8 x 4.5 x 0.85 in. (120.8 x 115.2 x 21.5 mm)### 
+Antenna Type	
+- 2 Dual Band Detachable Antennas
+
+## Wireless Features
+### Wireless Standards	
+- IEEE 802.11ac/n/a 5GHz, 
+- IEEE 802.11b/g/n 2.4GHz
+### Frequency	
+- 2.4GHz or 5GHz
+### Signal Rate	
+- 867Mbps at 5GHz, 
+- 400Mbps at 2.4GHz
+### Reception Sensitivity	
+- 5GHz :�
+- 11a: -68dBm
+- 11n HT20: -64dBm
+- 11n HT40: -61dBm
+- 11ac HT20: -59dBm
+- 11ac HT40: -54dBm
+- 11ac HT80: -51dBm
+- 2.4GHz :
+- 11b: -76dBm
+- 11g: -68dBm
+- 11n HT20: -64dBm
+- 11n HT40: -61dBm
+### Transmit Power	
+- 5GHz :� <23dBm (EIRP), 
+- 2.4GHz :� <20dBm (EIRP)
+### Wireless Modes	
+- Ad-Hoc / Infrastructure mode
+### Wireless Security	
+- Support 64/128 bit WEP, WPA-PSK/WPA2-PSK,802.1x
+### Modulation Technology	
+- DBPSK, DQPSK, CCK, OFDM, 16-QAM, 64-QAM, 256-QAM
+
+## OTHERS
+### System Requirements	
+- Windows 10/8.1/8/7/XP (32/64bits)
+
 ## Keyboard & Mouse - Razer Cynosa Chroma & Razer OUROBOROS
 <img src="Chroma.jpg" alt="drawing" width="200"/>
 <img src="Ouroboros.jpg" alt="drawing" width="200"/>
