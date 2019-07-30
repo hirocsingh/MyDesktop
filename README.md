@@ -233,4 +233,7 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 - Montior 2 - Dell 23' P2317H - HBMI and VGA
 - Montior 3 - Dell 23' P2317H - HBMI and VGA
 
+## Headset - Blackweb Gaming Premium Headset
+
+- With Y Splitter for Pink and Greem aux ports
 
