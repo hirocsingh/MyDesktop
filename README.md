@@ -1,7 +1,9 @@
-# MyDesktop
-Specification of My Workstation
+# My Gaming Desktop
+Specification of My Gaming/Work Station
 
 ## Processor - AMD Ryzen 7 2700X
+<img src="Ryzen.jpg" alt="drawing" width="200"/>
+
 
 ### No. of CPU 
  - 8
@@ -37,6 +39,7 @@ Specification of My Workstation
 - Ubuntu x86 64-Bit
 
 ## Motherboard - ROG STRIX X470-F GAMING
+<img src="ROG-MB.jpg" alt="drawing" width="200"/>
 
 ### CPU 
 - AMD AM4 Socket AMD Ryzen™ 2nd Generation/Ryzen™ with Radeon™ Vega Graphics/Athlon™ with Radeon™ Vega Graphics/Ryzen™ 1st Generation/7th Generation A-series/Athlon X4 Processors 
@@ -181,6 +184,7 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 
 
 ## GPU - Radeon™ RX VEGA 56 GAMING OC 8G
+<img src="Radeon-Vega.jpg" alt="drawing" width="200"/>
 
 ### Graphics Processing
 - Radeon™ RX VEGA 56
@@ -221,19 +225,128 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 ### Accessories
 - PCI-E Power cable x1 (Two 6pin to 8 pin)
 
+## Corsair Hydro Series H60 120mm Liquid CPU Cooler - CW-9060036-WW
+<img src="cooler.jpg" alt="drawing" width="200"/>
+
+### Cooling Warranty 
+- Five years
+### Cold Plate Material 
+- Copper
+### Radiator Material 
+- Aluminum
+### PWM 
+- Yes
+### CORSAIR iCUE Compatibility 
+- No
+### Radiator Dimensions 
+- 157mm x 120mm x 27mm
+### Fan Dimensions 
+- 120mm x 25mm
+### Fan Speed 
+- 1700 RPM
+ 
+### Number of Fans 
+- 1
+### Cooling Socket Support Intel 
+- 1150/1151/1155/1156
+- Intel 2011/2066
+- AMD AM3/AM2
+- AMD AM4
+### Lighting 
+- WHITE
+### Radiator Size 
+- 120mm
+### Fan Model 
+- SP Series
+### Fan Airflow 
+- 57.2 CFM
+### Noise Level 
+- 28.3 dBA
+### Fan Static Pressure 
+- 2.08 mm-H2O
+
+## CX Series™ CX750 — 750 Watt 80 PLUS® Bronze Certified ATX PSU
+<img src="PS.jpg" alt="drawing" width="200"/>
+
+### ATX Connector 
+- 1
+### Adjustable Single/Multi 12V Rail 
+- No
+### ATX12V Version 
+- v2.4
+### Continuous output rated temperature C 
+- 40°C
+### Continuous power W
+- 750 Watts
+### Fan bearing technology 
+- Rifle
+### Fan size mm 
+- 120mm
+### MTBF hours 
+- 100,000 hours
+### Multi-GPU ready 
+- YES
+### Power 
+- 750 Watts
+### Warranty 
+- Five years
+### 80 PLUS Efficiency
+- Bronze
+### PSU Form Factor 
+- ATX
+### Zero RPM Mode 
+- No
+### iCUE Compatibility 
+- No 
+### Cable Type 
+- Sleeved
+### C-Link Ready 
+- No
+### Dimensions 
+- 150mm x 86mm x 160mm
+### EPS12V Connector 
+- 1
+### EPS12V Version 
+- v2.92
+### Floppy Connector 
+- 0
+### Intel C6C7 sleep state compatible 
+- Yes
+### Modular 
+- No
+### PCIe Connector 
+- 4
+### Plug Type 
+- NA
+### SATA Connector 
+- 8
+### PATA Connector 
+- 8
+### Modern Standby Compatible 
+- No
+### Protection Circuits 
+- OVP (Over Voltage)
+- UVP (Under Voltage)
+- SCP (Short Circuit)
+- OTP (Over Temp)
+- OPP (Over Power)
 
 ## Keyboard & Mouse - Razer Cynosa Chroma & Razer OUROBOROS
+<img src="Chroma.jpg" alt="drawing" width="200"/>
+<img src="Ouroboros.jpg" alt="drawing" width="200"/>
 
 - Keyboard - Cynosa Chroma
 - Mice - OUROBOROS
 
 ## Monitors - 3x Dell w/ 3 Monitor Mount (Only two Original stands)
+<img src="MOnitor.jpg" alt="drawing" width="200"/>
 
 - Montior 1 - Dell 23' P2317H - HBMI and VGA
 - Montior 2 - Dell 23' P2317H - HBMI and VGA
 - Montior 3 - Dell 23' P2317H - HBMI and VGA
 
 ## Headset - Blackweb Gaming Premium Headset
+<img src="headset.jpg" alt="drawing" width="200"/>
 
 - With Y Splitter for Pink and Greem aux ports
 
