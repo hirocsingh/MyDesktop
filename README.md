@@ -1,6 +1,6 @@
 # My Gaming Desktop
 Specification of My Gaming/Work Station<br>
-<img src="Setup.jpg" alt="drawing" width="800" height="600"/>
+<img src="Setup.JPG" alt="drawing" width="800" height="600"/>
 
 ## Processor - AMD Ryzen 7 2700X
 <img src="Ryzen.jpg" alt="drawing" width="200"/>
