@@ -339,14 +339,14 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 - Mice - OUROBOROS
 
 ## Monitors - 3x Dell w/ 3 Monitor Mount (Only two Original stands)
-<img src="MOnitor.jpg" alt="drawing" width="200"/>
+<img src="Monitor.jpg" alt="drawing" width="200"/>
 
 - Montior 1 - Dell 23' P2317H - HBMI and VGA
 - Montior 2 - Dell 23' P2317H - HBMI and VGA
 - Montior 3 - Dell 23' P2317H - HBMI and VGA
 
 ## Headset - Blackweb Gaming Premium Headset
-<img src="headset.jpg" alt="drawing" width="200"/>
+<img src="headset.jpeg" alt="drawing" width="200"/>
 
 - With Y Splitter for Pink and Greem aux ports
 
