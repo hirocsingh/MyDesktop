@@ -2,7 +2,7 @@
 Specification of My Gaming/Work Station<br>
 <img src="Setup.JPG" alt="drawing" width="800" height="600"/>
 
-## Processor - AMD Ryzen 7 2700X
+## [Processor - AMD Ryzen 7 2700X](https://www.amd.com/en/products/cpu/amd-ryzen-7-2700x)
 <img src="Ryzen.jpg" alt="drawing" width="200"/>
 
 
@@ -39,7 +39,7 @@ Specification of My Gaming/Work Station<br>
 - RHEL x86 64-Bit
 - Ubuntu x86 64-Bit
 
-## Motherboard - ROG STRIX X470-F GAMING
+## [Motherboard - ROG STRIX X470-F GAMING](https://www.asus.com/ca-en/Motherboards/ROG-STRIX-X470-F-GAMING/)
 <img src="ROG-MB.jpg" alt="drawing" width="200"/>
 
 ### CPU 
@@ -184,7 +184,7 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 12 inch x 9.6 inch ( 30.5 cm x 24.4 cm )
 
 
-## GPU - Radeon™ RX VEGA 56 GAMING OC 8G
+## [GPU - Radeon™ RX VEGA 56 GAMING OC 8G](https://www.gigabyte.com/Graphics-Card/GV-RXVEGA56GAMING-OC-8GD#kf)
 <img src="Radeon-Vega.jpg" alt="drawing" width="200"/>
 
 ### Graphics Processing
@@ -226,7 +226,7 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 ### Accessories
 - PCI-E Power cable x1 (Two 6pin to 8 pin)
 
-## Corsair Hydro Series H60 120mm Liquid CPU Cooler - CW-9060036-WW
+## [Corsair Hydro Series H60 120mm Liquid CPU Cooler - CW-9060036-WW](https://www.corsair.com/us/en/Categories/Products/Liquid-Cooling/Single-Radiator-Liquid-Coolers/Hydro-Series%E2%84%A2-H60-%282018%29-120mm-Liquid-CPU-Cooler/p/CW-9060036-WW)
 <img src="cooler.jpg" alt="drawing" width="200"/>
 
 ### Cooling Warranty 
@@ -266,7 +266,7 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 ### Fan Static Pressure 
 - 2.08 mm-H2O
 
-## CX Series™ CX750 — 750 Watt 80 PLUS® Bronze Certified ATX PSU
+## [CX Series™ CX750 — 750 Watt 80 PLUS® Bronze Certified ATX PSU](https://www.corsair.com/ca/en/Categories/Products/Power-Supply-Units/cx-series-config/p/CP-9020123-NA)
 <img src="PS.jpg" alt="drawing" width="200"/>
 
 ### ATX Connector 
@@ -332,7 +332,7 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 - OTP (Over Temp)
 - OPP (Over Power)
 
-## PCI Adapter - AC1300 Wireless Dual Band PCI Express Adapter (For Wireless)
+## [PCI Adapter - AC1300 Wireless Dual Band PCI Express Adapter (For Wireless)](https://www.tp-link.com/ca/home-networking/adapter/archer-t6e/)
 <img src="router.jpg" alt="drawing" width="200"/>
 
 ## Hardware Specs.
@@ -379,15 +379,17 @@ Antenna Type
 ### System Requirements	
 - Windows 10/8.1/8/7/XP (32/64bits)
 
-## Keyboard & Mouse - Razer Cynosa Chroma & Razer OUROBOROS
+## Keyboard & Mouse - [Razer Cynosa Chroma](https://www.razer.com/ca-en/gaming-keyboards-keypads/razer-cynosa-chroma-pro) & [Razer OUROBOROS](https://www.razer.com/sg-en/gaming-mice/razer-ouroboros)
 <img src="Chroma.jpg" alt="drawing" width="200"/>
 <img src="Ouroboros.jpg" alt="drawing" width="200"/>
 
 - Keyboard - Cynosa Chroma
 - Mice - OUROBOROS
 
-## Monitors - 3x Dell w/ 3 Monitor Mount (Only two Original stands)
+## [Monitors - 3x Dell w/ 3 Monitor Mount (Only two Original stands)](https://www.dell.com/mk/business/p/dell-p2317h-monitor/pd)
 <img src="Monitor.jpg" alt="drawing" width="200"/>
+
+> This product is Out-of-Market now the Rplacement model by Dell is [Dell 23 Monitor: P2319H](https://www.dell.com/mk/business/p/dell-p2319h-monitor/pd)
 
 - Montior 1 - Dell 23' P2317H - HBMI and VGA
 - Montior 2 - Dell 23' P2317H - HBMI and VGA
