@@ -1,6 +1,30 @@
-# My Gaming Desktop
+# My Gaming Build
 Specification of My Gaming/Work Station<br>
 <img src="Setup.JPG" alt="drawing" width="800" height="600"/>
+
+Bechmarked Using [UserBenchmark](https://www.userbenchmark.com)
+
+## Benchmark Results
+
+[UserBenchmarks: Game 95%, Desk 74%, Work 81%](https://www.userbenchmark.com/UserRun/18917192)  
+
+||Model|Bench
+:----|:----|:----|
+**CPU**|[AMD Ryzen 7 2700](https://cpu.userbenchmark.com/AMD-Ryzen-7-2700/Rating/3957)|69.5%
+**GPU**|[AMD RX Vega 56](https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938)|107.1%
+**SSD**|[WDC WDS500G2B0A 500GB](https://ssd.userbenchmark.com/SpeedTest/668277/WDC-WDS500G2B0A)|107.3%
+**HDD**|[WD Blue 4TB (2015)](https://hdd.userbenchmark.com/WD-Blue-4TB-2015/Rating/3523)|100.7%
+**RAM**|[G.SKILL Ripjaws 4 DDR4 3000 C15 4x8GB](https://ram.userbenchmark.com/SpeedTest/92734/GSKILL-F4-3000C15-8GRK-4x8GB)|75.4%
+**MBD**|[Asus ROG STRIX X470-F GAMING](https://www.userbenchmark.com/System/Asus-ROG-STRIX-X470-F-GAMING/85903)|
+
+### Performance Result.
+<img src="bench.JPG" alt="drawing" width="1000"/>
+
+### Recent status.
+<img src="result.JPG" alt="drawing" width="1000"/>
+
+
+
 
 ## [Processor - AMD Ryzen 7 2700X](https://www.amd.com/en/products/cpu/amd-ryzen-7-2700x)
 <img src="Ryzen.jpg" alt="drawing" width="200"/>
