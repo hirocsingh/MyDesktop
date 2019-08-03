@@ -1,4 +1,4 @@
-# Ultimate GAming PC buit - All you need Guide
+# Ultimate Gaming PC buit - All you need Guide
 Specification of My Gaming/Work Station<br>
 <img src="Setup.JPG" alt="drawing" width="800" height="600"/>
 
