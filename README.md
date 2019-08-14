@@ -93,7 +93,7 @@ Maximum shared memory of 2048 MB (for iGPU exclusively)
 - Supports NVIDIA® 2-Way SLI™ Technology 
 Supports AMD 3-Way CrossFireX™ Technology
 
-###Expansion Slot 
+### Expansion Slot 
 - AMD Ryzen™ 2nd Generation/ Ryzen™ with Radeon™ Vega Graphics/ Ryzen™ 1st Generation Processors : 
 1 x M.2 Socket 3, with M key, type 2242/2260/2280/22110 storage devices support (SATA & PCIE 3.0 x 4 mode)
 AMD 7th Generation A-series/Athlon™ Processors : 
