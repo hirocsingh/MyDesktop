@@ -251,6 +251,7 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 - PCI-E Power cable x1 (Two 6pin to 8 pin)
 
 ## [G. SKILL 2x16 GB RAM](https://www.gskill.com/product/165/176/1532074131/F3-19200CL11D-8GBXLDRipjawsXDDR3-2400MHz-CL11-11-11-1.65V8GB-(2x4GB))
+<img src="RAM.png" alt="drawing" width="200"/>
 
 ### Memory Type 
 - DDR3
