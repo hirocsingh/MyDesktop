@@ -250,6 +250,35 @@ F12 PrintScreen, Secure Erase, User Profile, F4 AURA ON/OFF, F9 Search, and ASUS
 ### Accessories
 - PCI-E Power cable x1 (Two 6pin to 8 pin)
 
+## [G. SKILL 2x16 GB RAM](https://www.gskill.com/product/165/176/1532074131/F3-19200CL11D-8GBXLDRipjawsXDDR3-2400MHz-CL11-11-11-1.65V8GB-(2x4GB))
+
+### Memory Type 
+- DDR3
+### Capacity 
+- 32GB (16GBx2)
+### Multi-Channel Kit
+- Dual Channel Kit
+### Tested Speed
+- 2400MHz
+### Tested Latency
+- 11-11-11-31-2N
+### Tested Voltage
+- 1.65V
+### Registered/Unbuffered
+- Unbuffered
+### Error Checking
+- Non-ECC
+### SPD Speed
+- 1600MHz
+### SPD Voltage
+- 1.50V
+### Fan Included
+- Yes
+### Warranty
+- Limited Lifetime
+### Features
+- Intel XMP (Extreme Memory Profile) Ready
+
 ## [Corsair Hydro Series H60 120mm Liquid CPU Cooler - CW-9060036-WW](https://www.corsair.com/us/en/Categories/Products/Liquid-Cooling/Single-Radiator-Liquid-Coolers/Hydro-Series%E2%84%A2-H60-%282018%29-120mm-Liquid-CPU-Cooler/p/CW-9060036-WW)
 <img src="cooler.jpg" alt="drawing" width="200"/>
 
