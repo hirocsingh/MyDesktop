@@ -4,18 +4,20 @@ Specification of My Gaming/Work Station<br>
 
 Bechmarked Using [UserBenchmark](https://www.userbenchmark.com)
 
-## Benchmark Results
+## Benchmark Results 5/01/2020
 
-[UserBenchmarks: Game 95%, Desk 74%, Work 81%](https://www.userbenchmark.com/UserRun/18917192)  
+[UserBenchmarks: Game 85%, Desk 86%, Work 84%](https://www.userbenchmark.com/UserRun/23404649)  
 
 ||Model|Bench
 :----|:----|:----|
-**CPU**|[AMD Ryzen 7 2700](https://cpu.userbenchmark.com/AMD-Ryzen-7-2700/Rating/3957)|69.5%
-**GPU**|[AMD RX Vega 56](https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938)|107.1%
-**SSD**|[WDC WDS500G2B0A 500GB](https://ssd.userbenchmark.com/SpeedTest/668277/WDC-WDS500G2B0A)|107.3%
-**HDD**|[WD Blue 4TB (2015)](https://hdd.userbenchmark.com/WD-Blue-4TB-2015/Rating/3523)|100.7%
-**RAM**|[G.SKILL Ripjaws 4 DDR4 3000 C15 4x8GB](https://ram.userbenchmark.com/SpeedTest/92734/GSKILL-F4-3000C15-8GRK-4x8GB)|75.4%
+**CPU**|[AMD Ryzen 7 2700](https://cpu.userbenchmark.com/AMD-Ryzen-7-2700/Rating/3957)|70.8%
+**GPU**|[AMD RX Vega-56](https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938)|88%
+**SSD**|[WD Black SN750 NVMe PCIe M.2 250GB (2019)](https://ssd.userbenchmark.com/SpeedTest/716792/WDS250G3X0C-00SJG0)|171.4%
+**SSD**|[WDC WDS500G2B0A 500GB](https://ssd.userbenchmark.com/SpeedTest/668277/WDC-WDS500G2B0A)|97.2%
+**HDD**|[WD Blue 4TB (2015)](https://hdd.userbenchmark.com/WD-Blue-4TB-2015/Rating/3523)|97%
+**RAM**|[G.SKILL Ripjaws 4 DDR4 3000 C15 4x8GB](https://ram.userbenchmark.com/SpeedTest/92734/GSKILL-F4-3000C15-8GRK-4x8GB)|74%
 **MBD**|[Asus ROG STRIX X470-F GAMING](https://www.userbenchmark.com/System/Asus-ROG-STRIX-X470-F-GAMING/85903)|
+
 
 ### Performance Result.
 <img src="bench.JPG" alt="drawing" width="1000"/>
